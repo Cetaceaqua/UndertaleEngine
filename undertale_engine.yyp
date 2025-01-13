@@ -13,6 +13,7 @@
     {"$GMFolder":"","%Name":"Animation Curves","folderPath":"folders/Animation Curves.yy","name":"Animation Curves","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Extensions","folderPath":"folders/Extensions.yy","name":"Extensions","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Fonts","folderPath":"folders/Fonts.yy","name":"Fonts","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Notes","folderPath":"folders/Notes.yy","name":"Notes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Battle","folderPath":"folders/Objects/Battle.yy","name":"Battle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bullet","folderPath":"folders/Objects/Battle/Bullet.yy","name":"Bullet","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -134,6 +135,7 @@
   "resources":[
     {"id":{"name":"font_crypt_of_tomorrow","path":"fonts/font_crypt_of_tomorrow/font_crypt_of_tomorrow.yy",},},
     {"id":{"name":"font_mars_needs_cunnilingus","path":"fonts/font_mars_needs_cunnilingus/font_mars_needs_cunnilingus.yy",},},
+    {"id":{"name":"Note1","path":"notes/Note1/Note1.yy",},},
     {"id":{"name":"battle_board","path":"objects/battle_board/battle_board.yy",},},
     {"id":{"name":"battle_bullet","path":"objects/battle_bullet/battle_bullet.yy",},},
     {"id":{"name":"battle_button_act","path":"objects/battle_button_act/battle_button_act.yy",},},
